@@ -1,4 +1,4 @@
-<h1>We Care</h1>
+<h1>Jokempô</h1>
 
 <p>Esse foi um projeto utilizando conhecimento em JavaScript, sendo um deles o Math.Radom . Utilzei linguagens como:</p>
 <br>
